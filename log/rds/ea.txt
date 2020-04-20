@@ -1,2 +1,0 @@
-akamai.cdn.ea.com
-ams.akamai.cdn.ea.com

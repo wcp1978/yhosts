@@ -1,4 +1,0 @@
-#adesk
-127.0.0.1 service.ad.adesk.com
-#letv
-127.0.0.1 ads1.lfengmobile.com

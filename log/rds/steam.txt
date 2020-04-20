@@ -1,7 +1,0 @@
-steamcommunity.com
-store.akamai.steamstatic.com
-store.steampowered.com
-support.steampowered.com
-translation.steampowered.com
-www.steampowered.com
-www.valvesoftware.com

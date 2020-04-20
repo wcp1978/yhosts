@@ -1,3 +1,0 @@
-blog.feedly.com
-feedly.com
-s3.feedly.com
