@@ -17,8 +17,8 @@ hosts文件
 * 不得违反国家相关法律法规。
 * 请于测试后24小时内删除。
 
-### [反馈问题请看这里](https://github.com/VeleSila/yhosts/wiki/反馈请看)
 ### [有问题请先看Wiki](https://github.com/VeleSila/yhosts/wiki)
+### [反馈问题请看这里](https://github.com/VeleSila/yhosts/wiki/反馈请看)
 ### [需要特别感谢的人](https://github.com/VeleSila/yhosts/wiki/特别感谢)
 
 本项目（包括但不限于txt文件）使用 署名-非商业性使用-禁止演绎 CC BY-NC-ND 协议开源。
