@@ -21,6 +21,6 @@ hosts文件
 ### [有问题请先看Wiki](https://github.com/VeleSila/yhosts/wiki)
 ### [需要特别感谢的人](https://github.com/VeleSila/yhosts/wiki/特别感谢)
 
-本项目（包括但不限于txt和css文件）使用 署名-非商业性使用-禁止演绎 CC BY-NC-ND 协议开源。
+本项目（包括但不限于txt文件）使用 署名-非商业性使用-禁止演绎 CC BY-NC-ND 协议开源。
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
