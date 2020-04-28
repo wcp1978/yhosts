@@ -1,5 +1,5 @@
 
-#version=202004261631
+#version=202004272002
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 127.0.0.1 ereg.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
@@ -2949,6 +2949,7 @@
 127.0.0.1 api.e-cg.cn
 127.0.0.1 api.goulegu.com
 127.0.0.1 api.gzxiongwa.cn
+127.0.0.1 api.hfyhjg.cn
 127.0.0.1 api.ijunhai.com
 127.0.0.1 api.jsfc8.cn
 127.0.0.1 api.ketedata.com
@@ -3098,6 +3099,7 @@
 127.0.0.1 c.kl6636.net
 127.0.0.1 c.kuaituisss.com
 127.0.0.1 c.lianwangtech.com
+127.0.0.1 c.lrzazjl.cn
 127.0.0.1 c.lucktui.com
 127.0.0.1 c.mightiger.net
 127.0.0.1 c.mkmp365.com
@@ -3899,8 +3901,10 @@
 127.0.0.1 ekfe.tmmjgcp.cn
 127.0.0.1 emss.zjhim.com
 127.0.0.1 engine.tuicoco.com
+127.0.0.1 eo.lxujghc.cn
 127.0.0.1 eo.sdagxz.xyz
 127.0.0.1 eo.ssdoi.com
+127.0.0.1 eo.yhcrqzj.cn
 127.0.0.1 epernn.cn
 127.0.0.1 er.dlhygj.com
 127.0.0.1 erny.jxinyue.top
@@ -4095,6 +4099,7 @@
 127.0.0.1 if.yyjsbz.cn
 127.0.0.1 ig.nukefans.net
 127.0.0.1 ihl3ga.hepengshan.cn
+127.0.0.1 ii.u1e9.cn
 127.0.0.1 iiid.bluescream.cn
 127.0.0.1 ijdl.hbyongwan.cn
 127.0.0.1 ijeu.pdkzyy.cn
@@ -4121,6 +4126,7 @@
 127.0.0.1 img.gadhx.cn
 127.0.0.1 img.gaore.com
 127.0.0.1 img.gz9d.com
+127.0.0.1 img.gzhuibei.com
 127.0.0.1 img.hcwifi.cn
 127.0.0.1 img.helpinfo.cn
 127.0.0.1 img.il8r.com
@@ -5421,6 +5427,7 @@
 127.0.0.1 mm.2436.cn
 127.0.0.1 mm.jgchq.com
 127.0.0.1 mmcc.yxlady.com
+127.0.0.1 mo.46ga.cn
 127.0.0.1 mo.b25ku.cn
 127.0.0.1 mo.bsxr.com.cn
 127.0.0.1 mo.dfnbyn.top
@@ -5436,6 +5443,7 @@
 127.0.0.1 mo.shekuang.top
 127.0.0.1 mo.shezhuang.top
 127.0.0.1 mo.wajsa.com
+127.0.0.1 mo.yhcrqzj.cn
 127.0.0.1 mo.zdceaa.cn
 127.0.0.1 mo.zsyse.top
 127.0.0.1 mob.12365chia.com
@@ -5807,6 +5815,7 @@
 127.0.0.1 s.ryre.cn
 127.0.0.1 s.shiftrro.com
 127.0.0.1 s.sntzq.com
+127.0.0.1 s.sqszs.top
 127.0.0.1 s.ssggba.top
 127.0.0.1 s.sufficient.cn
 127.0.0.1 s.tjys88.com
@@ -6142,6 +6151,7 @@
 127.0.0.1 v.e7002.com
 127.0.0.1 v.iche88.cn
 127.0.0.1 v.jntxst.cn
+127.0.0.1 v.lrzazjl.cn
 127.0.0.1 v.oq68.com
 127.0.0.1 v.originz.cn
 127.0.0.1 v.qhruixin.cn
@@ -6316,6 +6326,7 @@
 127.0.0.1 www.amort.cn
 127.0.0.1 www.anyangruisi.com
 127.0.0.1 www.aodongjiaosu.com
+127.0.0.1 www.aoyou2.top
 127.0.0.1 www.appfh.com
 127.0.0.1 www.applequan.com
 127.0.0.1 www.ashiping.com
@@ -6455,6 +6466,7 @@
 127.0.0.1 www.nmpcdn.com
 127.0.0.1 www.nnnwwwe.com
 127.0.0.1 www.nvshenfan.com
+127.0.0.1 www.oiwjcsh011.top
 127.0.0.1 www.onewhee.com
 127.0.0.1 www.oollttqq.com
 127.0.0.1 www.ooniu.com
@@ -6620,6 +6632,7 @@
 127.0.0.1 xmindchina.cn
 127.0.0.1 xmwde.cojia.net
 127.0.0.1 xn--fjqz50cv5q3so.ltd
+127.0.0.1 xn--i7qt52bvsr0u0a.com
 127.0.0.1 xn--wxtr44c.video
 127.0.0.1 xn--wxtr9fwyxk9c.club
 127.0.0.1 xn--wxtr9fwyxk9c.top
