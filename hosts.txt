@@ -1538,8 +1538,6 @@
 127.0.0.1 js.9669.cn
 #com2us
 127.0.0.1 push.com2us.net
-#eamobile
-127.0.0.1 cdn.adc.eamobile.com
 #ft games
 127.0.0.1 ads.feelingtouch.com
 #gameloft
