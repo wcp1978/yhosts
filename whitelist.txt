@@ -1,12 +1,12 @@
 address=/.bcebos.com/0.0.0.0 baidu maps 
 http://cdn.staticfile.org/jquery/1.7.2/jquery.min.js
-127.0.0.1 acstatic-dun.126.net °²È«ÖĞĞÄÎŞ·¨µÇÂ½
-127.0.0.1 b.bdstatic.com  Ìù°ÉÌû×ÓËõÂÔÍ¼
+127.0.0.1 acstatic-dun.126.net å®‰å…¨ä¸­å¿ƒæ— æ³•ç™»é™†
+127.0.0.1 b.bdstatic.com  è´´å§å¸–å­ç¼©ç•¥å›¾
 127.0.0.1 static.ws.126.net
-code.createjs.com ÕâÊÇÒ»¸ö js cdn ¿â£¬²»Ó¦¸ÃÔÚºÚÃûµ¥
-current.sina.com.cn Õâ¸öÍøÖ· ½ûÁËÃ»·¨¿´ĞÂÀË²Æ¾­µÄ¹ÉÆ±²éÑ¯ÀúÊ·
-127.0.0.1 woocall.sina.com.cn ÆÁ±ÎÁËÃ»·¨¿´ĞÂÀË²Æ¾­µÄ¹ÉÆ±ĞÅÏ¢
-127.0.0.1 vd.l.qq.com ÌÚÑ¶ÊÓÆµvip£¬¾ÉµÄvipµçÊÓ¾çÎŞ·¨²¥·Å
+code.createjs.com è¿™æ˜¯ä¸€ä¸ª js cdn åº“ï¼Œä¸åº”è¯¥åœ¨é»‘åå•
+current.sina.com.cn è¿™ä¸ªç½‘å€ ç¦äº†æ²¡æ³•çœ‹æ–°æµªè´¢ç»çš„è‚¡ç¥¨æŸ¥è¯¢å†å²
+127.0.0.1 woocall.sina.com.cn å±è”½äº†æ²¡æ³•çœ‹æ–°æµªè´¢ç»çš„è‚¡ç¥¨ä¿¡æ¯
+127.0.0.1 vd.l.qq.com è…¾è®¯è§†é¢‘vipï¼Œæ—§çš„vipç”µè§†å‰§æ— æ³•æ’­æ”¾
 127.0.0.1 union-click.jd.com
 127.0.0.1 ccc-x.jd.com
 https://wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
@@ -15,11 +15,11 @@ http://mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=
 127.0.0.1 pcbrowser.dd.qq.com
 127.0.0.1 stdl.qq.com
 g.163.com
-gma.alicdn.com Õâ¸ö½ûÓÃÁËÌÔ±¦ÌØÂôÍø¼ÓÔØ²»³öÍ¼Æ¬
-127.0.0.1 app.adjust.com Î¢Èí°²È«Ïà¹ØÍ¨ÖªµÈ
-www.3533.com ÍøÒ³Í¼Æ¬±»ÎóÉ±£ºp.abcache.com
+gma.alicdn.com è¿™ä¸ªç¦ç”¨äº†æ·˜å®ç‰¹å–ç½‘åŠ è½½ä¸å‡ºå›¾ç‰‡
+127.0.0.1 app.adjust.com å¾®è½¯å®‰å…¨ç›¸å…³é€šçŸ¥ç­‰
+www.3533.com ç½‘é¡µå›¾ç‰‡è¢«è¯¯æ€ï¼šp.abcache.com
 http://acs4baichuan.m.taobao.com/gw-open/com.alibaba.havana.login.applink.generatetopapplinktoken/1.0/
-#127.0.0.1 acs4baichuan.m.taobao.com ppÖúÊÖÌÔ±¦µÇÂ¼ÊÚÈ¨À­Æğ
+#127.0.0.1 acs4baichuan.m.taobao.com ppåŠ©æ‰‹æ·˜å®ç™»å½•æˆæƒæ‹‰èµ·
 127.0.0.1 adashbc.m.taobao.com 
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 adash.m.taobao.com
@@ -68,19 +68,17 @@ imgbb is a free service for uploading and sharing pictures.
 https://github.com/notracking/hosts-blocklists/issues/75
 
 127.0.0.1 lib.baomitu.com
-Ö»ÒªÓĞÕâÒ»Ìõ£¬127.0.0.1 union.video.qq.com£¬ÌÚÑ¶ÊÓÆµÍøÒ³ÏÂÒ»¼¯°´Å¥»ÒÉ«£¬Ò²²»ÄÜÑ¡¼¯²¥·Å
+åªè¦æœ‰è¿™ä¸€æ¡ï¼Œ127.0.0.1 union.video.qq.comï¼Œè…¾è®¯è§†é¢‘ç½‘é¡µä¸‹ä¸€é›†æŒ‰é’®ç°è‰²ï¼Œä¹Ÿä¸èƒ½é€‰é›†æ’­æ”¾
 127.0.0.1 web-disp.titan.mgtv.com
 127.0.0.1 web-disp1.titan.mgtv.com
 127.0.0.1 web-disp2.titan.mgtv.com
 http://jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2.json?file=58143483.mp4
 
 pingtcss.qq.com
-pingtcss.qq.com
-pingtcss.qq.com
 
 http://cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
-vidown Éı¼¶
-°Ù¶ÈÊÖ»úÖúÊÖÏÂÔØ
+vidown å‡çº§
+ç™¾åº¦æ‰‹æœºåŠ©æ‰‹ä¸‹è½½
 #http://pan.baidu.com/
 127.0.0.1 appc.baidu.com
 127.0.0.1 hmma.baidu.com
@@ -90,10 +88,10 @@ vidown Éı¼¶
 newapi.shouji.baofeng.com fix baofeng
 
 http://api.open.uc.cn
-»áµ¼ÖÂ½»Ò×Ã¨ÎŞ·¨¹ºÂò
+ä¼šå¯¼è‡´äº¤æ˜“çŒ«æ— æ³•è´­ä¹°
 
 http://cdn.staticfile.org/jquery/2.1.4/jquery.min.js id97.com
-127.0.0.1 mp.weixinbridge.com ÎŞ·¨²é¿´Ô­ÎÄ
+127.0.0.1 mp.weixinbridge.com æ— æ³•æŸ¥çœ‹åŸæ–‡
 http://puui.qpic.cn/
 http://sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 http://image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120 tudou 
@@ -109,22 +107,22 @@ img.alicdn.com
 127.0.0.1 s.wasu.cn css js
 shark.douyucdn.cn
 staticlive.douyucdn.cn
-i.flow.browser.oppomobile.com oppo ä¯ÀÀÆ÷ÎŞ·¨µÇÂ½µ«ÓÖ¿ÉÒÔÈ¥³ı×ÊÑ¶
-dhfs.oppomobile.com oppo ä¯ÀÀÆ÷Õ¾µãÎŞÍ¼±ê
-Õâ¸ö»áµ¼ÖÂÍøÒ×²©¿ÍµÄÆÀÂÛÇøÍ·Ïñ²»¼ûÁËhttp://blog.163.com/seo_technology/blog/static/195684049201302592952295/
+i.flow.browser.oppomobile.com oppo æµè§ˆå™¨æ— æ³•ç™»é™†ä½†åˆå¯ä»¥å»é™¤èµ„è®¯
+dhfs.oppomobile.com oppo æµè§ˆå™¨ç«™ç‚¹æ— å›¾æ ‡
+è¿™ä¸ªä¼šå¯¼è‡´ç½‘æ˜“åšå®¢çš„è¯„è®ºåŒºå¤´åƒä¸è§äº†http://blog.163.com/seo_technology/blog/static/195684049201302592952295/
 http://b.bst.126.net/common/face60.png
-yun.duiba.com.cn »áµ¼ÖÂÌÚÑ¶¶¯Âş°²×¿°æµÄ¶º±ÈÉÌ³Ç°×ÆÁ
+yun.duiba.com.cn ä¼šå¯¼è‡´è…¾è®¯åŠ¨æ¼«å®‰å“ç‰ˆçš„é€—æ¯”å•†åŸç™½å±
 wd.geilicdn.com weidian image
 https://miuiboot.tracking.miui.com
-Ë¢»úºóµÚÒ»¿ª»úĞ£Ñé
+åˆ·æœºåç¬¬ä¸€å¼€æœºæ ¡éªŒ
 address=/.tracking.miui.com/0.0.0.0
 #cnblogs.com
 127.0.0.1 images2015.cnblogs.com
-http://images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg Ó°Ïì°¢ÀïÔÆÍ¼Æ¬
+http://images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg å½±å“é˜¿é‡Œäº‘å›¾ç‰‡
 http://data.mistat.xiaomi.com/mistats/v2
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
-»Ö¸´ÔÆÊı¾İÊ±»á¿¨×¡µÄÎÊÌâ
+æ¢å¤äº‘æ•°æ®æ—¶ä¼šå¡ä½çš„é—®é¢˜
 127.0.0.1 img.alicdn.com
 http://sdkinit.taobao.com/init.htm
 http://sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
@@ -135,15 +133,15 @@ http://t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba
 127.0.0.1 weatherapi.market.xiaomi.com
 https://milink.pandora.xiaomi.com/milink/probe?mac_address=8715650f394a2cbe65336688e6ebaa22be29cc3e&opaque=302d0531df4653ea755c9057642bb83bdc6b2035
 http://assistant.pandora.xiaomi.com/config
-http://stat.duokanbox.com/tvservice/reportmessage tvÏûÏ¢£¿
+http://stat.duokanbox.com/tvservice/reportmessage tvæ¶ˆæ¯ï¼Ÿ
 http://data.mistat.xiaomi.com:443
-127.0.0.1 dl.op.wpscdn.cn Ó°ÏìwpsÏÂÔØ
+127.0.0.1 dl.op.wpscdn.cn å½±å“wpsä¸‹è½½
 
-127.0.0.1 ip.cms.sohu.com ÒÉËÆipÅĞ¶Ï£¬ÔİÊ±É¾³ı
+127.0.0.1 ip.cms.sohu.com ç–‘ä¼¼ipåˆ¤æ–­ï¼Œæš‚æ—¶åˆ é™¤
 127.0.0.1 s0.mp.sohu.com
 127.0.0.1 zz.m.sohu.com
 127.0.0.1 you.ctrip.com
-127.0.0.1 gss0.bdstatic.com ÖªµÀcss
+127.0.0.1 gss0.bdstatic.com çŸ¥é“css
 127.0.0.1 gss2.bdstatic.com
 127.0.0.1 ss0.bdstatic.com
 #miui-mi
@@ -161,7 +159,6 @@ http://data.mistat.xiaomi.com:443
 127.0.0.1 tw13b093.sandai.net
 127.0.0.1 sousuo.xm.sjzhushou.com
 
-
 127.0.0.1 staging.admin.e.mi.com
 
 127.0.0.1 security.browser.miui.com
@@ -173,6 +170,7 @@ http://data.mistat.xiaomi.com:443
 
 127.0.0.1 a.stat.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
+127.0.0.1 cdn.abc.eamobile.com
 127.0.0.1 union.dbba.cn
 
 
