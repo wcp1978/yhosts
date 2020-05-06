@@ -1,12 +1,21 @@
 address=/.bcebos.com/0.0.0.0 baidu maps 
 http://cdn.staticfile.org/jquery/1.7.2/jquery.min.js
-127.0.0.1 acstatic-dun.126.net 安全中心无法登陆
-127.0.0.1 b.bdstatic.com  贴吧帖子缩略图
+
+#安全中心无法登陆
+127.0.0.1 acstatic-dun.126.net 
+
+#贴吧帖子缩略图
+127.0.0.1 b.bdstatic.com
 127.0.0.1 static.ws.126.net
-code.createjs.com 这是一个 js cdn 库，不应该在黑名单
-current.sina.com.cn 这个网址 禁了没法看新浪财经的股票查询历史
-127.0.0.1 woocall.sina.com.cn 屏蔽了没法看新浪财经的股票信息
-127.0.0.1 vd.l.qq.com 腾讯视频vip，旧的vip电视剧无法播放
+#一个 js cdn 库，不应该在黑名单
+code.createjs.com
+#网址 禁了没法看新浪财经的股票查询历史
+current.sina.com.cn
+#屏蔽了没法看新浪财经的股票信息
+127.0.0.1 woocall.sina.com.cn
+
+#腾讯视频vip，旧的vip电视剧无法播放
+127.0.0.1 vd.l.qq.com
 127.0.0.1 union-click.jd.com
 127.0.0.1 ccc-x.jd.com
 https://wifiapi02.51y5.net/wifiapi/rd.do?a=&v=&c=&d=&u=&ssid=&bssid=&f=wnk_apply_open&b=8__wifihome__wifihome__pc__unknow__&_t=1546925013958
@@ -15,11 +24,19 @@ http://mastersim.wifi.com/h5/apply_4.html?utm_source=wifihome&utm_campaign=pc&v=
 127.0.0.1 pcbrowser.dd.qq.com
 127.0.0.1 stdl.qq.com
 g.163.com
-gma.alicdn.com 这个禁用了淘宝特卖网加载不出图片
-127.0.0.1 app.adjust.com 微软安全相关通知等
-www.3533.com 网页图片被误杀：p.abcache.com
+
+#这个禁用了淘宝特卖网加载不出图片
+gma.alicdn.com
+
+#微软安全相关通知等
+127.0.0.1 app.adjust.com
+
+#网页图片被误杀：p.abcache.com
+www.3533.com 
 http://acs4baichuan.m.taobao.com/gw-open/com.alibaba.havana.login.applink.generatetopapplinktoken/1.0/
-#127.0.0.1 acs4baichuan.m.taobao.com pp助手淘宝登录授权拉起
+
+pp助手淘宝登录授权拉起
+127.0.0.1 acs4baichuan.m.taobao.com 
 127.0.0.1 adashbc.m.taobao.com 
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 adash.m.taobao.com
@@ -77,26 +94,31 @@ http://jobsfe.funshion.com/query/v1/mp4/291FBCA4F09F5CE8F70EB2732DEC136FDA283AD2
 pingtcss.qq.com
 
 http://cc.vidown.cn/vidown/update.php?version=2.1.4.1_v&id=34127211
-vidown 升级
-百度手机助手下载
+#vidown 升级
+#百度手机助手下载
 #http://pan.baidu.com/
 127.0.0.1 appc.baidu.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 dxp.baidu.com
 
 127.0.0.1 ib.snssdk.com
-newapi.shouji.baofeng.com fix baofeng
+
+#fix baofeng
+newapi.shouji.baofeng.com
 
 http://api.open.uc.cn
-会导致交易猫无法购买
+#会导致交易猫无法购买
 
 http://cdn.staticfile.org/jquery/2.1.4/jquery.min.js id97.com
-127.0.0.1 mp.weixinbridge.com 无法查看原文
+
+#无法查看原文
+127.0.0.1 mp.weixinbridge.com
 http://puui.qpic.cn/
 http://sta.ganji.com/public/css/ued/vip/vip.cmb.__1468520149__.css
 http://image.uczzd.cn/761945378583441460.jpg?id=0&width=212&height=120 tudou 
 subhd.com
-image
+
+#image
 127.0.0.1 b.bst.126.net 
 127.0.0.1 i8.chinanews.com
 127.0.0.1 js.passport.qihucdn.com
@@ -107,22 +129,30 @@ img.alicdn.com
 127.0.0.1 s.wasu.cn css js
 shark.douyucdn.cn
 staticlive.douyucdn.cn
-i.flow.browser.oppomobile.com oppo 浏览器无法登陆但又可以去除资讯
-dhfs.oppomobile.com oppo 浏览器站点无图标
-这个会导致网易博客的评论区头像不见了http://blog.163.com/seo_technology/blog/static/195684049201302592952295/
+
+# oppo 浏览器无法登陆但又可以去除资讯
+i.flow.browser.oppomobile.com
+
+#浏览器站点无图标
+dhfs.oppomobile.com oppo 
+
+#这个会导致网易博客的评论区头像不见了http://blog.163.com/seo_technology/blog/static/195684049201302592952295/
 http://b.bst.126.net/common/face60.png
 yun.duiba.com.cn 会导致腾讯动漫安卓版的逗比商城白屏
 wd.geilicdn.com weidian image
 https://miuiboot.tracking.miui.com
-刷机后第一开机校验
+
+#刷机后第一开机校验
 address=/.tracking.miui.com/0.0.0.0
 #cnblogs.com
 127.0.0.1 images2015.cnblogs.com
-http://images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg 影响阿里云图片
+
+#影响阿里云图片
+http://images2015.cnblogs.com/blog/641601/201511/641601-20151114215342837-1838001118.jpg
 http://data.mistat.xiaomi.com/mistats/v2
 127.0.0.1 abtest.mistat.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
-恢复云数据时会卡住的问题
+#恢复云数据时会卡住的问题
 127.0.0.1 img.alicdn.com
 http://sdkinit.taobao.com/init.htm
 http://sdkinit.taobao.com/sdkConfigVersion.htm?sdkVersion=2.1.0&platformName=android
@@ -133,15 +163,22 @@ http://t1.g.mi.com/thumbnail/webp/w156q90/Wali/1ac20257c6d4e45750acb3e2ed937d2ba
 127.0.0.1 weatherapi.market.xiaomi.com
 https://milink.pandora.xiaomi.com/milink/probe?mac_address=8715650f394a2cbe65336688e6ebaa22be29cc3e&opaque=302d0531df4653ea755c9057642bb83bdc6b2035
 http://assistant.pandora.xiaomi.com/config
-http://stat.duokanbox.com/tvservice/reportmessage tv消息？
-http://data.mistat.xiaomi.com:443
-127.0.0.1 dl.op.wpscdn.cn 影响wps下载
 
-127.0.0.1 ip.cms.sohu.com 疑似ip判断，暂时删除
+#tv消息？
+http://stat.duokanbox.com/tvservice/reportmessage
+http://data.mistat.xiaomi.com:443
+
+#影响wps下载
+127.0.0.1 dl.op.wpscdn.cn
+
+#疑似ip判断，暂时删除
+127.0.0.1 ip.cms.sohu.com
 127.0.0.1 s0.mp.sohu.com
 127.0.0.1 zz.m.sohu.com
 127.0.0.1 you.ctrip.com
-127.0.0.1 gss0.bdstatic.com 知道css
+
+#知道css
+127.0.0.1 gss0.bdstatic.com
 127.0.0.1 gss2.bdstatic.com
 127.0.0.1 ss0.bdstatic.com
 #miui-mi
