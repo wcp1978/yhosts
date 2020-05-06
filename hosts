@@ -1,4 +1,4 @@
-#version=202005011925
+#version=202005061000
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 127.0.0.1 ereg.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
