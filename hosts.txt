@@ -7307,7 +7307,7 @@
 127.0.0.1 y.xinghao89.com
 127.0.0.1 y.zp22.cn
 127.0.0.1 yacafrr.bailingcloud.cn
-yahafda.qivsod.com
+127.0.0.1 yahafda.qivsod.com
 127.0.0.1 ycszgt.cn
 127.0.0.1 ycy.hyjyjc.com
 127.0.0.1 ydlz.k859n.cn
