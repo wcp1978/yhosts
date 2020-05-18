@@ -3372,6 +3372,7 @@
 127.0.0.1 1234.jjxgly.com
 127.0.0.1 1234xm.com
 127.0.0.1 1495039.com
+127.0.0.1 181ue.com
 127.0.0.1 1e2hyl3b.wq42211.com
 127.0.0.1 2.1010pic.com
 127.0.0.1 2.21shebao.com
@@ -3702,6 +3703,7 @@
 127.0.0.1 c.kbf365.cn
 127.0.0.1 c.kl6636.net
 127.0.0.1 c.kuaituisss.com
+127.0.0.1 c.lalaxqt.cn
 127.0.0.1 c.lianwangtech.com
 127.0.0.1 c.lrzazjl.cn
 127.0.0.1 c.lucktui.com
@@ -4309,6 +4311,7 @@
 127.0.0.1 e.sqrxh.cn
 127.0.0.1 e.suehy.com
 127.0.0.1 e.sugajo.cn
+127.0.0.1 e.sxhwscj.cn
 127.0.0.1 e.szqifu.com
 127.0.0.1 e.t71q.com
 127.0.0.1 e.tbaip.com
@@ -4483,6 +4486,7 @@
 127.0.0.1 ee.mfufanj.cn
 127.0.0.1 ee.oikqfwv.cn
 127.0.0.1 ee.s47e8.cn
+127.0.0.1 ee.sbdgjqg.cn
 127.0.0.1 ee.t3j6a.cn
 127.0.0.1 ee.u0r9.cn
 127.0.0.1 ee.u4q2.cn
@@ -4509,6 +4513,8 @@
 127.0.0.1 engine.tuicoco.com
 127.0.0.1 eo.lxujghc.cn
 127.0.0.1 eo.nu2rx.xyz
+127.0.0.1 eo.nunxi.xyz
+127.0.0.1 eo.ou6d.cn
 127.0.0.1 eo.sdagxz.xyz
 127.0.0.1 eo.ssdoi.com
 127.0.0.1 eo.szimic.cn
@@ -4959,6 +4965,7 @@
 127.0.0.1 k.cao86789.cn
 127.0.0.1 k.ctsywy.com
 127.0.0.1 k.gsdhome.cn
+127.0.0.1 k.gzbld.net
 127.0.0.1 k.hbfls.vip
 127.0.0.1 k.hdjxmf.com
 127.0.0.1 k.kksgl.top
@@ -5018,6 +5025,7 @@
 127.0.0.1 kzni.jwhfn.cn
 127.0.0.1 l.adiers.com
 127.0.0.1 l.mnjkw.cn
+127.0.0.1 l.xfmfqdt.cn
 127.0.0.1 l9bdhcgihw.neihanw.com
 127.0.0.1 lan.btwan5.com
 127.0.0.1 ld.za9mnx.com
@@ -5745,6 +5753,7 @@
 127.0.0.1 m.s76xid.cn
 127.0.0.1 m.sanjiangge.com
 127.0.0.1 m.sbaoe.com
+127.0.0.1 m.sbdgjqg.cn
 127.0.0.1 m.sbenx.com
 127.0.0.1 m.sbief.com
 127.0.0.1 m.sbinx.com
@@ -5767,6 +5776,7 @@
 127.0.0.1 m.stuoe.com
 127.0.0.1 m.suehy.com
 127.0.0.1 m.sugajo.cn
+127.0.0.1 m.sxhwscj.cn
 127.0.0.1 m.sxxca.com
 127.0.0.1 m.symaa.cn
 127.0.0.1 m.symac.cn
@@ -6047,8 +6057,11 @@
 127.0.0.1 mo.gsasqa.cn
 127.0.0.1 mo.hc872.cn
 127.0.0.1 mo.lbmx.com.cn
+127.0.0.1 mo.nunxi.xyz
 127.0.0.1 mo.oneshouyou.cn
 127.0.0.1 mo.osvp2.cn
+127.0.0.1 mo.ou6d.cn
+127.0.0.1 mo.ot1n.cn
 127.0.0.1 mo.qb138.cn
 127.0.0.1 mo.qitouch.cn
 127.0.0.1 mo.rltk.com.cn
@@ -6401,6 +6414,7 @@
 127.0.0.1 s.cdxyb.cn
 127.0.0.1 s.ciouwap.com
 127.0.0.1 s.coveredsys.cn
+127.0.0.1 s.cshkjf.top
 127.0.0.1 s.dbojetp.cn
 127.0.0.1 s.ddstu.com
 127.0.0.1 s.doyo.cn
@@ -6634,6 +6648,7 @@
 127.0.0.1 t.targetuse.com
 127.0.0.1 t.trackingxnads.com
 127.0.0.1 t.tttmedd.com
+127.0.0.1 t.tymbf.top
 127.0.0.1 t.tzcccm.com
 127.0.0.1 t.xamaky.top
 127.0.0.1 t.xiumii.top
@@ -6769,6 +6784,7 @@
 127.0.0.1 v.e7002.com
 127.0.0.1 v.iche88.cn
 127.0.0.1 v.jntxst.cn
+127.0.0.1 v.lalaxqt.cn
 127.0.0.1 v.lrzazjl.cn
 127.0.0.1 v.oq68.com
 127.0.0.1 v.originz.cn
@@ -7291,6 +7307,7 @@
 127.0.0.1 y.xinghao89.com
 127.0.0.1 y.zp22.cn
 127.0.0.1 yacafrr.bailingcloud.cn
+yahafda.qivsod.com
 127.0.0.1 ycszgt.cn
 127.0.0.1 ycy.hyjyjc.com
 127.0.0.1 ydlz.k859n.cn
