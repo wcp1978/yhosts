@@ -1,5 +1,14 @@
-#version=202005171709
+#version=202006072310
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
+#-----Test
+127.0.0.1 at.umeng.com
+127.0.0.1 optimus-ads.amap.com
+127.0.0.1 t1.cdn.xiangha.com
+127.0.0.1 ec2-52-192-230-206apnortheast-1.compute.amazonaws.com
+127.0.0.1 scs.openspeech.cn
+127.0.0.1 api.leancloud.cn
+127.0.0.1 staticsns.cdn.bcebos.com
+#-----Test End
 127.0.0.1 ereg.adobe.com
 127.0.0.1 hlrcv.stage.adobe.com
 127.0.0.1 lm.licenses.adobe.com
@@ -2781,6 +2790,7 @@
 127.0.0.1 24200.h5ixp.com
 127.0.0.1 24200.luvbr.com
 127.0.0.1 25w.0tzp8c.cn
+127.0.0.1 26gg.bnq86.com
 127.0.0.1 272829.cc
 127.0.0.1 2f3.555b2b.com
 127.0.0.1 2mg.jim86d.cn
@@ -2795,6 +2805,7 @@
 127.0.0.1 43242.zh1144.com
 127.0.0.1 4au.htf16a.cn
 127.0.0.1 4gf.9tkl2d.cn
+127.0.0.1 4nemiaje2.aupig.cn
 127.0.0.1 4xhyr.shuimujinggong.com
 127.0.0.1 5.qqm98.com
 127.0.0.1 526d.uunice.com
@@ -3149,6 +3160,7 @@
 127.0.0.1 c.zxyywdj.org
 127.0.0.1 c1.lianwangtech.com
 127.0.0.1 c1.popads.net
+127.0.0.1 c1.t4u8m.xyz
 127.0.0.1 c2.popads.net
 127.0.0.1 c3.gostats.cn
 127.0.0.1 c6.bjdianyue.com
@@ -3171,6 +3183,7 @@
 127.0.0.1 cc.st123.info
 127.0.0.1 ccv.jiumishow.com
 127.0.0.1 ccv.ybt999.com
+127.0.0.1 cd.dabansuan.cn
 127.0.0.1 cd.jejre.cn
 127.0.0.1 cdbnx5.com
 127.0.0.1 cdhoc.piyaji.cn
@@ -3479,6 +3492,7 @@
 127.0.0.1 e.dsjre.com
 127.0.0.1 e.dunmm.com
 127.0.0.1 e.dxmci.com
+127.0.0.1 e.dydd.xyz
 127.0.0.1 e.e7001.com
 127.0.0.1 e.e70123.com
 127.0.0.1 e.ediun.com
@@ -3692,9 +3706,11 @@
 127.0.0.1 e.rgjrq.cn
 127.0.0.1 e.ricpt.com
 127.0.0.1 e.rjiau.com
+127.0.0.1 e.rkssxrh.cn
 127.0.0.1 e.rkw29.cn
 127.0.0.1 e.rmwdn.com
 127.0.0.1 e.rp71l.cn
+127.0.0.1 e.rqvfewi.cn
 127.0.0.1 e.s0o5g.cn
 127.0.0.1 e.s76xid.cn
 127.0.0.1 e.sanitwealth.com
@@ -3732,6 +3748,7 @@
 127.0.0.1 e.us8l5b.cn
 127.0.0.1 e.uu0152q.cn
 127.0.0.1 e.uw45o.cn
+127.0.0.1 e.uwmoghx.cn
 127.0.0.1 e.uzhaj.com
 127.0.0.1 e.v48bna.cn
 127.0.0.1 e.vaxyz.com
@@ -3910,6 +3927,7 @@
 127.0.0.1 ekfe.tmmjgcp.cn
 127.0.0.1 emss.zjhim.com
 127.0.0.1 engine.tuicoco.com
+127.0.0.1 eo.6sq7c.xyz
 127.0.0.1 eo.lxujghc.cn
 127.0.0.1 eo.nu2rx.xyz
 127.0.0.1 eo.nunxi.xyz
@@ -4000,6 +4018,7 @@
 127.0.0.1 g.zhgdhe.com
 127.0.0.1 g.zhoukaika.com
 127.0.0.1 g.zx-jsp.com
+127.0.0.1 g0.x0lh.cn
 127.0.0.1 g9s.sgzs999.com
 127.0.0.1 gafxa.code.mytanwan.com
 127.0.0.1 game.9xzj.com
@@ -4042,6 +4061,7 @@
 127.0.0.1 gyca9f.dahuangcheng.cn
 127.0.0.1 gz.hxdaka.com
 127.0.0.1 gzhctryy.com
+127.0.0.1 h.5y69n.cn
 127.0.0.1 h.b5qpg.cn
 127.0.0.1 h.how5.cn
 127.0.0.1 h.laojiayoufang.com
@@ -4186,6 +4206,7 @@
 127.0.0.1 ioek.okshishi.com
 127.0.0.1 ios.426g.com
 127.0.0.1 ip.hivps.xyz
+127.0.0.1 ip.ws.126.net
 127.0.0.1 iqiyi.kim
 127.0.0.1 items.bingdiantao.com
 127.0.0.1 its.fugetech.com
@@ -4245,6 +4266,7 @@
 127.0.0.1 jias.haotxt.com
 127.0.0.1 jihehuaban.com
 127.0.0.1 jimeilm.com
+127.0.0.1 jimg.iigs9.com
 127.0.0.1 jimg.jisuoping.com
 127.0.0.1 jingdian230.meilika.net
 127.0.0.1 jipinapi.panqis.cn
@@ -4309,6 +4331,7 @@
 127.0.0.1 js.static.tebaidu.cn
 127.0.0.1 js.vipyy88.com
 127.0.0.1 js.wo-x.cn
+127.0.0.1 js.xz6d.com
 127.0.0.1 js.yalongrope.cn
 127.0.0.1 js.ydeprint.com
 127.0.0.1 js.zyrfanli.com
@@ -4359,6 +4382,7 @@
 127.0.0.1 jyfght.cn
 127.0.0.1 jyz.fjtzjy.com
 127.0.0.1 jzdn.talk-hk.cn
+127.0.0.1 k.5p67n.cn
 127.0.0.1 k.85wa.cn
 127.0.0.1 k.bnuni.com
 127.0.0.1 k.cao86789.cn
@@ -4458,6 +4482,7 @@
 127.0.0.1 lol.pnhfc.com
 127.0.0.1 loldy.jiangmg.com
 127.0.0.1 lskwsx.m.zwdu.com
+127.0.0.1 lu.w3vj.cn
 127.0.0.1 luotediao.net
 127.0.0.1 lwnne.cn
 127.0.0.1 lwq.wangketuan.com
@@ -5143,9 +5168,11 @@
 127.0.0.1 m.rgjrq.cn
 127.0.0.1 m.rhcapass.com
 127.0.0.1 m.ricpt.com
+127.0.0.1 m.rkssxrh.cn
 127.0.0.1 m.rkw29.cn
 127.0.0.1 m.rmwdn.com
 127.0.0.1 m.rp71l.cn
+127.0.0.1 m.rqvfewi.cn
 127.0.0.1 m.s0o5g.cn
 127.0.0.1 m.s47e8.cn
 127.0.0.1 m.s52dv.com
@@ -5226,6 +5253,7 @@
 127.0.0.1 m.uissm.com
 127.0.0.1 m.uu0152q.cn
 127.0.0.1 m.uw45o.cn
+127.0.0.1 m.uwmoghx.cn
 127.0.0.1 m.uzhaj.com
 127.0.0.1 m.v76rk.cn
 127.0.0.1 m.vaxyz.com
@@ -5447,6 +5475,7 @@
 127.0.0.1 mm.2436.cn
 127.0.0.1 mm.jgchq.com
 127.0.0.1 mmcc.yxlady.com
+127.0.0.1 mo.l29qi.xyz
 127.0.0.1 mo.46ga.cn
 127.0.0.1 mo.b25ku.cn
 127.0.0.1 mo.bsxr.com.cn
@@ -5456,6 +5485,7 @@
 127.0.0.1 mo.gsasqa.cn
 127.0.0.1 mo.hc872.cn
 127.0.0.1 mo.lbmx.com.cn
+127.0.0.1 mo.mu5b.cn
 127.0.0.1 mo.nunxi.xyz
 127.0.0.1 mo.oneshouyou.cn
 127.0.0.1 mo.osvp2.cn
@@ -5474,6 +5504,7 @@
 127.0.0.1 mob.12365chia.com
 127.0.0.1 mob.huimee.net
 127.0.0.1 mob10.cqjktj.com
+127.0.0.1 mob29.shqcbus.com
 127.0.0.1 moons.66bhy.com
 127.0.0.1 moren-1252794300.file.myqcloud.com
 127.0.0.1 motoe.plokr.com
@@ -5696,6 +5727,7 @@
 127.0.0.1 pm.sdaiv.com
 127.0.0.1 pmh.souid.com
 127.0.0.1 pn.1ym7e.cn
+127.0.0.1 png.cameliotoscalini.net
 127.0.0.1 poke.hhslbz.cn
 127.0.0.1 pong.fccay.cn
 127.0.0.1 pop.code.mytanwan.com
@@ -5863,6 +5895,7 @@
 127.0.0.1 s.zgclmw.cn
 127.0.0.1 s.zjhoudao.com
 127.0.0.1 s.zlongad.com
+127.0.0.1 s.zp0573.cn
 127.0.0.1 s1.ei16h.cn
 127.0.0.1 s1.hnhbyxdq.com
 127.0.0.1 s1.huiqituan.com
@@ -6036,9 +6069,11 @@
 127.0.0.1 t.douyaobuy.com
 127.0.0.1 t.fatcatstar.com
 127.0.0.1 t.h5data.com
+127.0.0.1 t.hl51go.xyz
 127.0.0.1 t.hmwebs.top
 127.0.0.1 t.iz55.com
 127.0.0.1 t.lzrkj.top
+127.0.0.1 t.mamashengqian.xyz
 127.0.0.1 t.mofun.ltd
 127.0.0.1 t.oq68.com
 127.0.0.1 t.pingzei.com
@@ -6168,6 +6203,7 @@
 127.0.0.1 uu.85655095.com
 127.0.0.1 uu.zeverdg.com
 127.0.0.1 uun.1uandun.com
+127.0.0.1 uv.qnmuayx.cn
 127.0.0.1 uwcu.0b6h.cn
 127.0.0.1 uxaz.fxnfk.cn
 127.0.0.1 uxek.85nv96.cn
@@ -6175,9 +6211,12 @@
 127.0.0.1 uzixia.zwdu.com
 127.0.0.1 v.6dvip.com
 127.0.0.1 v.76768hwj.cn
+127.0.0.1 v.8yrn.cn
 127.0.0.1 v.9y88.com
 127.0.0.1 v.awmlkuu.cn
 127.0.0.1 v.bingxueshenjie.cn
+127.0.0.1 v.com.5p67n.cn
+127.0.0.1 v.dcgwnhk.cn
 127.0.0.1 v.dengbaozx.cn
 127.0.0.1 v.dhsfcw.cn
 127.0.0.1 v.e7002.com
@@ -6209,6 +6248,7 @@
 127.0.0.1 vip.cainiaofx.com
 127.0.0.1 vip.hyz86.com
 127.0.0.1 vip.id528.com
+127.0.0.1 vip.jiangrenzhiguo.com
 127.0.0.1 vip.mall044.com
 127.0.0.1 vip.media8.cn
 127.0.0.1 vip.pai76.com
@@ -6216,6 +6256,7 @@
 127.0.0.1 vip.qqxwf.com
 127.0.0.1 vip.winfisc.com
 127.0.0.1 vip.zhuba8.com
+127.0.0.1 vipwx.zhong-zhu.com
 127.0.0.1 vj.tianji520.cn
 127.0.0.1 vj.x-ssp.com
 127.0.0.1 vm.makeding.com
@@ -6539,6 +6580,7 @@
 127.0.0.1 www.szxc868.com
 127.0.0.1 www.szyr474.com
 127.0.0.1 www.taobaobo5.com
+127.0.0.1 www.teniucj.com
 127.0.0.1 www.thztv.net
 127.0.0.1 www.tj-cmys.com
 127.0.0.1 www.tjhhr.com
@@ -6666,6 +6708,8 @@
 127.0.0.1 xmindchina.cn
 127.0.0.1 xmwde.cojia.net
 127.0.0.1 xn--2qu92fhtx4ff.ink
+127.0.0.1 xn--2qu92fhtx4ff.site
+127.0.0.1 xn--2ssq0ktxigkq.com
 127.0.0.1 xn--fjqz50cv5q3so.ltd
 127.0.0.1 xn--i7qt52bvsr0u0a.com
 127.0.0.1 xn--wxtr44c.video
@@ -6683,6 +6727,7 @@
 127.0.0.1 xtsk.6yush.cn
 127.0.0.1 xvyljkr.com
 127.0.0.1 xx.sctnkw.cn
+127.0.0.1 xxbj.sctnkw.cn
 127.0.0.1 xxlargepop.com
 127.0.0.1 xxp.gytygc.com
 127.0.0.1 xxxa.aikeapp.com
@@ -6730,6 +6775,7 @@
 127.0.0.1 youyijia021.com
 127.0.0.1 yp.shuhuangge.org
 127.0.0.1 yq6.lhkwy.com
+127.0.0.1 yt-adp.ws.126.net
 127.0.0.1 ytlo.7ia9h.cn
 127.0.0.1 ytmx.2r3485.cn
 127.0.0.1 yts.ytsyyey.com
@@ -6745,6 +6791,7 @@
 127.0.0.1 yy.fddcpxg.cn
 127.0.0.1 yyffeicd.m.qxs.la
 127.0.0.1 yzh.jyjhkz.com
+127.0.0.1 z.com.5y69n.cn
 127.0.0.1 z.moatads.com
 127.0.0.1 z1.bohuaqiche.com
 127.0.0.1 z1.cnywst.com
