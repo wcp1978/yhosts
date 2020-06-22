@@ -1010,7 +1010,6 @@
 127.0.0.1 pfp.sina.com.cn
 127.0.0.1 r.dmp.sina.com.cn
 127.0.0.1 rm.sina.com.cn
-127.0.0.1 sax.sina.com.cn
 127.0.0.1 sax1.sina.com.cn
 127.0.0.1 sax2.sina.com.cn
 127.0.0.1 sax3.sina.com.cn
@@ -3446,6 +3445,7 @@
 127.0.0.1 97kuaixiu.com
 127.0.0.1 9ll01.com
 127.0.0.1 9llm.com
+127.0.0.1 9o.qv25i.xyz
 127.0.0.1 a.198banjia.com
 127.0.0.1 a.53yao.com
 127.0.0.1 a.90370.com
@@ -3704,6 +3704,7 @@
 127.0.0.1 c.cyhx98.com
 127.0.0.1 c.cyto-biotherapy.com
 127.0.0.1 c.danangmo.cn
+127.0.0.1 c.dcgwnhk.cn
 127.0.0.1 c.dengbaozx.cn
 127.0.0.1 c.dhsfcw.cn
 127.0.0.1 c.dokrmob.com
@@ -3730,6 +3731,7 @@
 127.0.0.1 c.mnjkw.cn
 127.0.0.1 c.mobishu.com
 127.0.0.1 c.ningbojipiao.com
+127.0.0.1 c.ntrdjsjl.com
 127.0.0.1 c.ns8d.com
 127.0.0.1 c.okmgy.cn
 127.0.0.1 c.originz.cn
@@ -3749,6 +3751,7 @@
 127.0.0.1 c.start280.com
 127.0.0.1 c.statstat888.com
 127.0.0.1 c.sy123888.com
+127.0.0.1 c.syooys.com
 127.0.0.1 c.t98u8f.com
 127.0.0.1 c.tctyb.cn
 127.0.0.1 c.v-meng.org
@@ -3769,6 +3772,7 @@
 127.0.0.1 c.zxyywdj.org
 127.0.0.1 c1.lianwangtech.com
 127.0.0.1 c1.popads.net
+127.0.0.1 c1.syooys.com
 127.0.0.1 c1.t4u8m.xyz
 127.0.0.1 c2.popads.net
 127.0.0.1 c3.gostats.cn
@@ -4049,6 +4053,7 @@
 127.0.0.1 e.9xws7p.cn
 127.0.0.1 e.a907907.com
 127.0.0.1 e.abeij.com
+127.0.0.1 e.ac56.xyz
 127.0.0.1 e.acaog.com
 127.0.0.1 e.acaox.com
 127.0.0.1 e.acaoz.com
@@ -4056,6 +4061,7 @@
 127.0.0.1 e.adsdsu.cn
 127.0.0.1 e.aduiz.com
 127.0.0.1 e.aetetv.cn
+127.0.0.1 e.ac56.xyz
 127.0.0.1 e.aganj.com
 127.0.0.1 e.ailix.cn
 127.0.0.1 e.aiyyu.com
@@ -4562,6 +4568,7 @@
 127.0.0.1 f.hongm.com
 127.0.0.1 f.mzw000.com
 127.0.0.1 f.qcwzx.net.cn
+127.0.0.1 f.rhovlnd.cn
 127.0.0.1 f.yijikm.com
 127.0.0.1 f.yueyetiyu.com
 127.0.0.1 f1.luoshenbest.cn
@@ -5055,6 +5062,7 @@
 127.0.0.1 kwflvcdn.000dn.com
 127.0.0.1 kzni.jwhfn.cn
 127.0.0.1 l.adiers.com
+127.0.0.1 l.ksxcxb.cn
 127.0.0.1 l.mnjkw.cn
 127.0.0.1 l.xfmfqdt.cn
 127.0.0.1 l9bdhcgihw.neihanw.com
@@ -5244,6 +5252,7 @@
 127.0.0.1 m.abeij.com
 127.0.0.1 m.abfalse.cn
 127.0.0.1 m.abfirst.cn
+127.0.0.1 m.ac56.xyz
 127.0.0.1 m.acaox.com
 127.0.0.1 m.acaoz.com
 127.0.0.1 m.achig.com
@@ -5372,6 +5381,7 @@
 127.0.0.1 m.du1du.org
 127.0.0.1 m.duias.com
 127.0.0.1 m.dxmci.com
+127.0.0.1 m.dydd.xyz
 127.0.0.1 m.e2n8vc.cn
 127.0.0.1 m.e9wm6a.cn
 127.0.0.1 m.easypatent.net
@@ -5466,6 +5476,7 @@
 127.0.0.1 m.gexings.com
 127.0.0.1 m.gglay.com
 127.0.0.1 m.ggouh.com
+127.0.0.1 m.gitma.info
 127.0.0.1 m.gjiai.com
 127.0.0.1 m.gjiaj.com
 127.0.0.1 m.gjiak.com
@@ -6092,6 +6103,7 @@
 127.0.0.1 mo.grqf.com.cn
 127.0.0.1 mo.gsasqa.cn
 127.0.0.1 mo.hc872.cn
+127.0.0.1 mo.keilb.xyz
 127.0.0.1 mo.lbmx.com.cn
 127.0.0.1 mo.mu5b.cn
 127.0.0.1 mo.nunxi.xyz
@@ -6108,6 +6120,7 @@
 127.0.0.1 mo.wajsa.com
 127.0.0.1 mo.yhcrqzj.cn
 127.0.0.1 mo.zdceaa.cn
+127.0.0.1 mo.zk43i.xyz
 127.0.0.1 mo.zsyse.top
 127.0.0.1 mob.12365chia.com
 127.0.0.1 mob.huimee.net
@@ -6199,6 +6212,7 @@
 127.0.0.1 nxw.0518g.com
 127.0.0.1 nzfc.2zm4.cn
 127.0.0.1 o.4x25v.cn
+127.0.0.1 o.5q69n.cn
 127.0.0.1 o.fanwanshangmao1.cn
 127.0.0.1 o.lj7t6e.cn
 127.0.0.1 o.su9orw.cn
@@ -6394,6 +6408,7 @@
 127.0.0.1 qoub.rtslgov.cn
 127.0.0.1 qp.yunanfuwuqi.com
 127.0.0.1 qq.8368661.com
+127.0.0.1 qq.com.5q69n.cn
 127.0.0.1 qq.guansenff.cn
 127.0.0.1 qq.hixili.top
 127.0.0.1 qqa.miaozhu823.com
@@ -6447,6 +6462,7 @@
 127.0.0.1 s.5jjx.net
 127.0.0.1 s.652748.com
 127.0.0.1 s.adyun.com
+127.0.0.1 s.bipian.top
 127.0.0.1 s.bmgan.com
 127.0.0.1 s.caduka.cn
 127.0.0.1 s.cdlkzb.com
@@ -6665,6 +6681,7 @@
 127.0.0.1 t.2d-c.cn
 127.0.0.1 t.3apf.com
 127.0.0.1 t.58xs.com
+127.0.0.1 t.5r60n.cn
 127.0.0.1 t.91dijiu.com
 127.0.0.1 t.Oq68.com
 127.0.0.1 t.adxchina.cn
@@ -6677,7 +6694,9 @@
 127.0.0.1 t.douyaobuy.com
 127.0.0.1 t.fatcatstar.com
 127.0.0.1 t.h5data.com
+127.0.0.1 t.hc005.top
 127.0.0.1 t.hl51go.xyz
+127.0.0.1 t.hljjv.top
 127.0.0.1 t.hmwebs.top
 127.0.0.1 t.iz55.com
 127.0.0.1 t.lzrkj.top
@@ -6840,6 +6859,7 @@
 127.0.0.1 v.szpaopao.com
 127.0.0.1 v.xinshide.cn
 127.0.0.1 v.xiuzhenjewelry.cn
+127.0.0.1 v.xrooxeo.cn
 127.0.0.1 v1.0594529.com
 127.0.0.1 v7.kawinhome.com
 127.0.0.1 v7.shaoyumuye.com
@@ -7317,6 +7337,7 @@
 127.0.0.1 xmwde.cojia.net
 127.0.0.1 xn--2qu92fhtx4ff.ink
 127.0.0.1 xn--2qu92fhtx4ff.site
+127.0.0.1 xn--2ssq0ktxigkq.cc
 127.0.0.1 xn--2ssq0ktxigkq.com
 127.0.0.1 xn--fjqz50cv5q3so.ltd
 127.0.0.1 xn--i7qt52bvsr0u0a.com
