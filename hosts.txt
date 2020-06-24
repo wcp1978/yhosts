@@ -6478,7 +6478,7 @@
 127.0.0.1 s.dsjcfw.com
 127.0.0.1 s.e739.cn
 127.0.0.1 s.georgias.cn
-127.0.0.1 s.goodkee.n
+127.0.0.1 s.goodkee.cn
 127.0.0.1 s.haiyunx.com
 127.0.0.1 s.hk9600.com
 127.0.0.1 s.hnhgw.cn
