@@ -15,6 +15,9 @@
 #百度网盘浮动广告
 127.0.0.1 staticsns.cdn.bcebos.com
 
+127.0.0.1 at.umeng.com
+127.0.0.1 adfurikun.jp
+
 #ios
 255.255.255.255	broadcasthost
 ::1             localhost
