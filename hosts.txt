@@ -47,8 +47,6 @@
 127.0.0.1 iadctest.qwapi.com
 #MicroSoft
 127.0.0.1 ieonline.microsoft.com
-@direct/3rd
-13.107.21.200 cn.bing.com
 #acdsee
 127.0.0.1 acdid.acdsystems.com
 #adobe
@@ -2870,7 +2868,6 @@
 #www.zybang.com
 127.0.0.1 bu01.zybang.com
 127.0.0.1 bu02.zybang.com
-127.0.0.1 img.zuoyebang.cc
 #www.asqql.com
 127.0.0.1 jb.asqql.com
 #4hw.com.cn
