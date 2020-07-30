@@ -4110,6 +4110,7 @@
 127.0.0.1 e.cuomm.com
 127.0.0.1 e.cx016d.cn
 127.0.0.1 e.czggcj.com
+127.0.0.1 e.d1wn3.cn
 127.0.0.1 e.daishuxy.com
 127.0.0.1 e.danrs.com
 127.0.0.1 e.dbeii.com
@@ -5391,6 +5392,7 @@
 127.0.0.1 m.cuoas.com
 127.0.0.1 m.cuoss.com
 127.0.0.1 m.czxjx.cn
+127.0.0.1 m.d1wn3.cn
 127.0.0.1 m.d6s2pn5t.cn
 127.0.0.1 m.dailiq.cn
 127.0.0.1 m.daishuxy.com
@@ -6220,6 +6222,7 @@
 127.0.0.1 n.88android.com
 127.0.0.1 n.qudwrj.cn
 127.0.0.1 n.yfi8.com
+127.0.0.1 n5.q2ws3.cn
 127.0.0.1 nads.wuaiso.com
 127.0.0.1 nadscdn.wuaiso.com
 127.0.0.1 nbbull.com
