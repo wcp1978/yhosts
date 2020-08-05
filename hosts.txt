@@ -4292,6 +4292,7 @@
 127.0.0.1 e.mqgpo.com
 127.0.0.1 e.mrsasharingspace.com
 127.0.0.1 e.mrtuo.com
+127.0.0.1 e.mspazmw.cn
 127.0.0.1 e.mutvib.cn
 127.0.0.1 e.mw31pe.cn
 127.0.0.1 e.mwjpk.com
@@ -4579,6 +4580,7 @@
 127.0.0.1 eo.ou6d.cn
 127.0.0.1 eo.sdagxz.xyz
 127.0.0.1 eo.ssdoi.com
+127.0.0.1 eo.syrki.xyz
 127.0.0.1 eo.szimic.cn
 127.0.0.1 eo.wamcjfg.cn
 127.0.0.1 eo.yhcrqzj.cn
@@ -5746,6 +5748,7 @@
 127.0.0.1 m.mouaa.com
 127.0.0.1 m.mqgpo.com
 127.0.0.1 m.mrtuo.com
+127.0.0.1 m.mspazmw.cn
 127.0.0.1 m.msuik.cn
 127.0.0.1 m.msujd.cn
 127.0.0.1 m.mtuoa.com
@@ -6177,6 +6180,7 @@
 127.0.0.1 mo.rltk.com.cn
 127.0.0.1 mo.shekuang.top
 127.0.0.1 mo.shezhuang.top
+127.0.0.1 mo.syrki.xyz
 127.0.0.1 mo.szimic.cn
 127.0.0.1 mo.wajsa.com
 127.0.0.1 mo.wamcjfg.cn
@@ -8797,6 +8801,9 @@
 127.0.0.1 tags.growingio.com
 127.0.0.1 growingio.com
 127.0.0.1 www.growingio.com
+#inmobi
+127.0.0.1 c.w.inmobi.cn
+127.0.0.1 et.w.inmobi.cn
 #irs
 127.0.0.1 irs01.com
 127.0.0.1 a.irs01.com
