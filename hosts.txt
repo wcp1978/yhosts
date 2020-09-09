@@ -806,6 +806,7 @@
 127.0.0.1 xdssp.mediav.com
 #adnxs
 127.0.0.1 acdn.adnxs.com
+127.0.0.1 ib.adnxs.com
 127.0.0.1 nym2-tr.adnxs.com
 127.0.0.1 sin1-ib.adnxs.com
 127.0.0.1 vcdn.adnxs.com
@@ -6715,6 +6716,7 @@
 127.0.0.1 slb.upshengyi.com
 127.0.0.1 sm1.todgo.com
 127.0.0.1 sm2.todgo.com
+127.0.0.1 smartad.10010.com
 127.0.0.1 smucdn.com
 127.0.0.1 snw5.jkjjkj.top
 127.0.0.1 so.tsscnw.cn
@@ -9424,7 +9426,10 @@
 127.0.0.1 api.appsflyer.com
 127.0.0.1 events.appsflyer.com
 127.0.0.1 hq.appsflyer.com
+127.0.0.1 inapps.appsflyer.com
+127.0.0.1 launches.appsflyer.com
 127.0.0.1 stats.appsflyer.com
+127.0.0.1 sdk.appsflyer.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 track.appsflyer.com
 127.0.0.1 www.appsflyer.com
@@ -10361,3 +10366,5 @@
 127.0.0.1 p-cn.acxiom-online.com
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
+#impact-ad
+127.0.0.1 y.one.impact-ad.com
