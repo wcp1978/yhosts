@@ -1,4 +1,6 @@
 @direct/1os
+#Rawfile issue
+
 #-----Test
 #阻止苏宁小店下载
 127.0.0.1 at.umeng.com
